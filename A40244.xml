@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Scripture testimony to the saints practices wherein all may see the practice of the holy men and women of God ...</title>
+            <author>Fox, George, 1624-1691.</author>
+         </titleStmt>
+         <extent>Approx. 18KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40244</idno><idno type="EEBO-CITATION">10325494</idno>
+  <idno type="VID">44860</idno>
+  <idno type="EEBO-PROQUEST">2240939573</idno>
+  
+            <idno type="STC">Wing F1897A</idno>
+            <idno type="STC">ESTC R28008</idno>
+            <idno type="OCLC">10325494</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A40244)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 44860)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1384:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Scripture testimony to the saints practices wherein all may see the practice of the holy men and women of God ...</title>
+                  <author>Fox, George, 1624-1691.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1672?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: G.F.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Conduct of life.</term>
+               <term type="topical_term">Society of Friends --  Apologetic works.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="tract">
+            <pb facs="tcp:44860:1"/>
+            <pb facs="tcp:44860:1"/>
+            <head>A Scripture Testimony TO THE SAINTS PRACTICES, Wherein all may see the Practice of the Holy Men and Women of God, in their Service in the Church of God, and what Good Works, and Practices, and Services they exhorted unto, as followeth, as you may see both in the Old and New Testament, which is the Duty of all True <hi>Christians</hi> to follow.</head>
+            <p>YE are a peculiar People, Zealous of Good Works, <hi>Tit.</hi> 2.14.</p>
+            <p>The Woman wrought a Good Work upon Christ, he saith in <hi>Mat.</hi> 26 10.</p>
+            <p>
+               <hi>Paul</hi> saith to the Church of <hi>Coll<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ssions,</hi> Being fruitful in eve<g ref="char:EOLhyphen"/>ry Good Work, and encreasing in the Knowledge of God, <hi>Col.</hi> 1.10.</p>
+            <p>And that you may be established in every Good Word and Work, 2 <hi>Thess.</hi> 2.17.</p>
+            <p>She, to wit, a Widow, well reported for her Good Works, 1 <hi>Tim.</hi> 5.9, 10.</p>
+            <p>That the Church which believe in God might be careful to maintain Good Works; these things are good and profitable to men, <hi>Tit.</hi> 3.8.</p>
+            <p>And let ours also (to wit, the Church of Christ) learn to maintain Good Works for necessary Uses, that they may not
+<pb n="2" facs="tcp:44860:2"/>be unfruitful: this sayes <hi>Paul</hi> to <hi>Titus</hi> and to the Church, <hi>Tit.</hi> 3.14.</p>
+            <p>Let us consider one another, to provoke to Love and to Good Works, <hi>Hebr.</hi> 10.24.</p>
+            <p>That they do Good, that they be rich in Good Works, rea<g ref="char:EOLhyphen"/>dy to distribute, willing to communicate; for God giveth us all things to enjoy, 1 <hi>Tim.</hi> 6.17, 18.</p>
+            <p>But to do Good and to Communicate, forget not; for with such Sacrifices God is well pleased, <hi>Hebr.</hi> 13.16.</p>
+            <p>As God hath distributed to every man, and as the Lord hath called every one, so let him walk, and so ordain I in all Churches, 1 <hi>Cor.</hi> 7.17.</p>
+            <p>And <hi>Paul</hi> exhorts the Church of the <hi>Romans</hi> to their distri<g ref="char:EOLhyphen"/>buting to the Necessity of the Saints, and being given to Hos<g ref="char:EOLhyphen"/>pitality, <hi>Rom.</hi> 12.13.</p>
+            <p>And to make Contribution for the poor Saints that were at <hi>Jerusalem,</hi> which the Apostle <hi>Paul</hi> mentions to the <hi>Romans,</hi> chap. 15.26.</p>
+            <p>Only that we should remember the Poor, the same which I also was forward to do, faith the Apostle to the Church at <hi>Gala<g ref="char:EOLhyphen"/>tia, Gal.</hi> 2 10.</p>
+            <p>If any man minister, let him do it of the Ability which God hath given him that God in all things may be glorified through Jesus Christ; to whom be Praises and Dominion forever and ever, <hi>Amen.</hi> 1 <hi>Pet.</hi> 4.11.</p>
+            <p>And let us not be weary in well-doing; for in due season we shall reap, if we faint not; as we have therefore Oppor<g ref="char:EOLhyphen"/>tunity, let us do Good unto all men, especially unto the Hous<g ref="char:EOLhyphen"/>hold of Faith, <hi>Gal.</hi> 6.9, 10.</p>
+            <p>And whatsoever you do in Word or Deed, do all in the Name of Jesus; and whatsoever ye do, do it heartily, as un<g ref="char:EOLhyphen"/>to the Lord, knowing that of the Lord ye shall receive the Reward of the Inheritance; for ye do serve the Lord, <hi>Col.</hi> 3.17, 23, 24.</p>
+            <p>Therefore to him that knoweth how to do Good, and doth it not, it is to him Sin, <hi>James</hi> 4 17.</p>
+            <p>He that hath Pity on the Poor, lendeth to the Lord; and
+<pb n="3" facs="tcp:44860:2"/>that which he hath given will he pay him again, <hi>Prov.</hi> 19.17.</p>
+            <p>And you may see, such as were careful to hearken unto the Voice of the Lord God, and to obey and keep his Command<g ref="char:EOLhyphen"/>ments; for the Lord thy God will bless thee, as he hath pro<g ref="char:EOLhyphen"/>mised, Thou shalt send unto many Nations, and thou shalt not borrow, and so forth, <hi>Deut</hi> 15.5, 6.</p>
+            <p>For the Lord shall open unto thee his good Treasure, the Heaven to give thee Rain unto thy Land in his season, and to bless all the Works of thine Hands, &amp; thou shalt lend unto ma<g ref="char:EOLhyphen"/>ny Nations, and thou shalt not borrow; and all People of the Earth shall see, that thou art called by the Name of the Lord; and they shall be afraid of thee, <hi>Deut.</hi> 28.10, 12.</p>
+            <p>I have been Young, and now am Old, yet have I not seen the Righteous forsaken, nor his Seed begging Bread; for he is Merciful and Lendeth, and his Seed is blessed, <hi>Psa.</hi> 37.25, 26.</p>
+            <p>A Good Man sheweth Favour, and Lendeth, he will guide his Affairs with Discretion, <hi>Psa.</hi> 112.5.</p>
+            <p>The Righteous sheweth Mercy, and giveth, <hi>Psa.</hi> 31.21.</p>
+            <p>The Righteous giveth, and spareth not; for he giveth of his Bread to the Poor; he hath a bountiful Eye, and shall be blessed, <hi>Prov.</hi> 21.26. &amp; 22.9.</p>
+            <p>And He that giveth to the Poor, shall not lack, <hi>Prov.</hi> 28.27.</p>
+            <p>God giveth to all men liberally, and upbraideth not: So all men should give of that which they have received of him libe<g ref="char:EOLhyphen"/>rally, without upbraiding, as in <hi>James</hi> 1.5.</p>
+            <p>And he that giveth, let him do it with Simplicity, <hi>Rom.</hi> 12.8.</p>
+            <p>Give, and it shall be given unto you, saith Christ, <hi>Luke</hi> 6.38.</p>
+            <p>See the Care of the Apostles, of the Poor Saints, as in 2 <hi>Cor.</hi> 9.6, 7, 8, 9, 10, 11.</p>
+            <p>But this I say, he which soweth sparingly, shall reap sparingly; &amp; he which sows bountifully, shall reap bountifully, 2 <hi>Cor.</hi> 9.6.</p>
+            <p>So every man according as he purposeth in his Heart, so let him give, not Grudgingly or of Necessity; for God loveth a Chearful Giver [mark] and God is able to make all Grace abound towards you, that ye alwayes having All-sufficiency in all things may abound to every Good Work, as it is written, <hi>He hath dispersed abroad, he hath given to the Poor, his Righte<g ref="char:EOLhyphen"/>ousness
+<pb n="4" facs="tcp:44860:3"/>remaineth forever;</hi> [mark] now he that ministreth Seed to the Sower, both ministreth Bread for your Food, and mul<g ref="char:EOLhyphen"/>tiplies your Seed sown, and encreaseth the Fruits of your Righ<g ref="char:EOLhyphen"/>teousness, <hi>Isa.</hi> 55.10. 2 <hi>Cor.</hi> 9 10.</p>
+            <p>Being enriched in every Good thing to all Bountifulness, which causeth through us Thanksgiving to God.</p>
+            <p>And you may see how the Disciples, every man according to his Ability, determined to send Relief unto their Brethren, which dwelt in <hi>Judea,</hi> and they sent it by the Hands of <hi>Saul</hi> and <hi>Barnabas,</hi> Acts 11.29, 30.</p>
+            <p>And so of Brotherly-Love, ye need not that I write unto you; for God teacheth you to love one another, 1 <hi>Thes.</hi> 4.9.</p>
+            <p>But whoso hath this World's Goods, and seeth his Brother have Need, and shuts up his Bowels of Compassion from him, how dwelleth the Love of God in him? 1 <hi>John</hi> 3.17.</p>
+            <p>There is a Generation whose Teeth are as Swords, and their Jaw teeth as Knives, to devour the Poor from the Earth, and the Needy from among men, <hi>Prov.</hi> 30.14.</p>
+            <p>And therefore the Poor and Needy is not to be Oppressed nor vexed, nor sent empty away, but relieved, and their Cause is to be pleaded, as in <hi>Prov.</hi> 31.9.</p>
+            <p>And the Apostle saith to the Church, Give to him that need<g ref="char:EOLhyphen"/>eth, <hi>Ephes.</hi> 4.28.</p>
+            <p>And God will help all your need, according to his Riches in his Glory by Christ Jesus, <hi>Phil.</hi> 4.19.</p>
+            <p>And Christ saith, That the Father-knoweth what things ye have need of, <hi>Mat.</hi> 6.8.</p>
+            <p>And you may see the Manner and Way of Collection, that the Apostles ordered for the Saints, in 1 <hi>Cor.</hi> 16.1.</p>
+            <p>And the Lord faith, If thou deal thy Bread to the Hungry, and that thou bring the Poor that are cast out to thy House, and when thou seest the Naked that thou cover him, and that thou hide not thy self from thy own Flesh, then shall thy Light break forth as the Morning, and thy Health shall spring forth spee<g ref="char:EOLhyphen"/>dily, and thy Righteousness shall go before thee, and the Glo<g ref="char:EOLhyphen"/>ry of the Lord shall be thy Reward, <hi>Isa.</hi> 58.7. &amp; <hi>Ezek.</hi> 18 7.</p>
+            <p>And if thou draw out thy Soul to the Hungry, and satisfie
+<pb n="5" facs="tcp:44860:3"/>the Afflicted, then shall thy Light arise in Obscurity, and thy Darkness shall be as the Noon-day.</p>
+            <p>And the Lord shall-guide thee continually, and satisfie thy Soul in Drought, and make thy Bones fat, and thou shalt be like a Watered Garden, and like a Spring of Water, whose Waters fail not: here is the Practice of Godliness, <hi>Isa.</hi> 58.7, 8, and so forth.</p>
+            <p>The Hungry and thirsty their Souls fainteth in them, then they cry unto the Lord, and be satisfieth the longing Soul, and filleth the Hungry with Goodness, or good things, <hi>Psa.</hi> 107. <hi>Luke</hi> 1.53.</p>
+            <p>The Lord which made Heaven and Earth, which giveth Food to the Hungry, and the Lord preserveth the Stranger, and re<g ref="char:EOLhyphen"/>lieveth the Widow and Fatherless; but the Way of the Wic<g ref="char:EOLhyphen"/>ked he turns up side down, <hi>Psal.</hi> 146.</p>
+            <p>If thy Enemy hunger, give him Bread; if he thirst, give him Water to drink; for in that thou shalt heap Coals of Fire upon his Head, the Lord shall reward thee, <hi>Prov.</hi> 25.21, 22.</p>
+            <p>And the Law of God ye may see in <hi>Ezekiel</hi> 18.7. He that hath not oppressed any, but hath restored the Debtor his Pledge, and hath spoiled none by violence, and hath given his Bread to the Hungry, and hath covered the Naked with his Garment, he shall live, and not dye.</p>
+            <p>And <hi>Job</hi> saith, I delivered the Poor that cryed, and the Fa<g ref="char:EOLhyphen"/>therless and him that had none to help him, and the Blessing of him that was ready to perish came upon me; and I caused the Widows Hearts to sing, and be as a Father to the Poor, <hi>Job</hi> 29.</p>
+            <p>
+               <hi>Dorcas</hi> (a Woman) an old Di<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ciple of Jesus Christ, when she was dead, it is recorded, this Woman was full of Good Works [mark] full of Good Works and Alms which she did in her Life-time; and all the Widows [mark] all they stood by <hi>Peter</hi> (Widows &amp; Women) and wept, &amp; shewed him the Coats and Garments that she had made whilst she was alive with them [mark, with them] <hi>A Womens Meeting in the Practice of Re<g ref="char:EOLhyphen"/>ligion,</hi> Act. 9.35. to the End.</p>
+            <p>Pure Religion and Undefiled before God and the Father is this, to visit the Fatherless &amp; Widdows in their Afflictions, and to keep himself unspotted from the World, <hi>Jam.</hi> 1.27.</p>
+            <pb n="6" facs="tcp:44860:4"/>
+            <p>And this Religion is to be practised by all the right and true <hi>Christians;</hi> For if a Brother or Sister be naked, and destitute of daily Food, &amp; thou say unto one of them, <hi>Depart in Peace,</hi> warm your selves, and fill your Bellies, notwithstanding you give them not those things which are needful to the Body, what helpeth it? even so Faith, if it have no Works, is dead in it self, <hi>Jam.</hi> 2.15, 16, 17. <hi>See how</hi> James <hi>encourages to practice Religion, and to shew forth the Works of Faith, that work by Love.</hi>
+            </p>
+            <p>If thou afflict any Widdow or Fatherless Child in any wise, and they cry at all unto me, I will surely hear their Cry, saith the Lord, and my Wrath shall wax hot, and I will kill you with the Sword, and your Wives shall be Widdows, and your Chil<g ref="char:EOLhyphen"/>dren Fatherless, <hi>Exod.</hi> 22.</p>
+            <p>The Lord is good to all, and his Tender Mercies are over all his Works, <hi>Psal.</hi> 145.</p>
+            <p>The Righteous considereth the Cause of the Poor; but the Wicked regardeth not to know it (to wit, the Cause of the Poor) what Condi ion they are in, <hi>Prov.</hi> 29.</p>
+            <p>And if thy Brother be waxen poor, and fallen in decay with thee, then shalt thou relieve him, yea, though he be a Stranger or a Sojourner, that he may live with thee, <hi>Lev.</hi> 25.35.</p>
+            <p>The Poor is hated even of his Neighbour, but the Rich hath many Freinds; but he that is Merciful to the Poor, happy is he, <hi>Prov.</hi> 14.21.</p>
+            <p>He that Oppresseth the Poor, reproaches his Maker; but he that Honoureth him (to wit, his Maker) hath Mercy on the Poor, <hi>Prov.</hi> 14.</p>
+            <p>Whoso mocks the Poor, reproaches his Maker, <hi>Pro.</hi> 17.</p>
+            <p>Whoso stops his Ears at the Cry of the Poor, he also shall cry himself, but shall not be heard, <hi>Prov.</hi> 21.</p>
+            <p>The Lord maketh Poor, and maketh Rich; he bringeth low, and lifteth up. 1 <hi>Sam.</hi> 12.</p>
+            <p>Therefore I command thee, thou sh lt open thy Hand wide unto thy Brother, to thy Poor and to thy Needy in thy Land, saith the Lord, <hi>Deut.</hi> 15.</p>
+            <p>The Poor useth Entreaties; but the Rich answereth rough<g ref="char:EOLhyphen"/>ly, <hi>Prov.</hi> 18.23.</p>
+            <p>
+               <hi>Here you may see what Care the Lord lays upon his People, to
+<pb n="7" facs="tcp:44860:4"/>look after the Poor, Widdows and Fatherless, both in the time of the Law and in the time of the Gospel; and how that they should obey him in his Commands, the Lord God, who created all, and gives the encrease of all, and gives Man and Woman good things, both temporal and spiritual to do good withal; so the Lord is to be obeyed, and his Truth is to be practised; and the pure Religion that is undefiled before God &amp; the Father, is above all the Religions in the World: And this Religion is,</hi> To visit the Widdows and Fatherless in their Affliction, &amp; to keep himself unspotted from the World, <hi>(mark, unspotted from the World.) And this Re<g ref="char:EOLhyphen"/>ligion is above the</hi> Papists, <hi>that must have a Purgatory to wash off their spots of the World, and above the</hi> Protestants, <hi>that must have a Body of Death and Sin to the Grave, with which they are spot<g ref="char:EOLhyphen"/>ted like Leopards; and these are the Religions of the World; and are not the pure and undefiled Religion before God and the Father; and their Fatherless and Widows in their Affl ctions are not visi<g ref="char:EOLhyphen"/>ted: And therefore, you who are come to be of this pure Religion, undefiled before God and the Father, and do visit the Widows and Fatherless in their Afflictions, and do keep your selves unspotted from the World, you are of the Religion that was not set up by man, but by Christ &amp; his Apostles above</hi> 1600 <hi>years since, by which you see over all the Religions set up since, and see therefore that you practise it.</hi>
+            </p>
+            <p>And <hi>Job</hi> saith, If I did despise the Cause of my Man-Servant or of my Maid-Servant, when they contended with me, what then shall I do when God shall arise? and when he visiteth, what shall I answer him? <hi>See the Care of this Patient Man; is not this for all the true Christians to practise?</hi> Job 31. <hi>vers.</hi> 13, 14, 15. <hi>And saith</hi> Job, Did not he that made me in the Womb, make him? and did not one fashion us in the Womb? <hi>Vers.</hi> 16. <hi>And</hi> If I have with-held the Poor from their Desire, or have caused the Eyes of the Widow to fail, or have eaten my Mor<g ref="char:EOLhyphen"/>sel my self alone, and the Fatherless have not eaten thereof; from my Youth he was brought up with me as with a Father, and I have guided her (to wit, the Widow) from my Mother's Womb; If I have seen any perish for want of Clothing, or any poor without Covering, if his Loins have not blessed me, and if he were not warmed with the Fleece of my Sheep, if I have lift
+<pb n="8" facs="tcp:44860:5"/>up my Hand against the Fatherless when I saw my Help in the Gate; then let mine Arm fall from my Sholder-blade, and mine Arm be broken from the Bone: The Stranger did not lodge in the Street, but I opened my Doors for the Travailer, <hi>Job</hi> 31.17, 18, 19. Did not I Weep for him that was in Trouble? was not my Soul grieved for the Poor? <hi>Now here ye may all see the Actions and Practice of this Man, by his practising the pure Re<g ref="char:EOLhyphen"/>ligion; so it is not a Talk, but a walking in it, as you may see in</hi> Job 30, 31. <hi>Chapters.</hi>
+            </p>
+            <p>And blessed is he that considereth the Poor, the Lord will de<g ref="char:EOLhyphen"/>liver him in time of Trouble, <hi>Psal.</hi> 41.9.</p>
+            <p>
+               <hi>Now all you that profess God and Christ, see how you walk in the Steps of these Good Men and Women, and not only to talk as they did, but do and practise as they did; for it is not every one that saith Lord, Lord, enters the Kingdom, but he that doth what he commands.</hi>
+            </p>
+            <p>
+               <hi>And Christ saith,</hi> Ye call me Lord and Master, and ye say well, for so I am; and if I then your Lord and Master have was shed your Feet, ye also ought to wash one anothers Feet: For I have given you an Example, that ye should do as I have done unto you. And if ye know these things, happy are ye if ye do them, <hi>John</hi> 13.17.</p>
+            <p>
+               <hi>And Christ saith,</hi> Not every one that saith unto me, Lord, Lord, shall enter into the Kingdom of Heaven; but he that doth the Will of my Father which is in Heaven, <hi>Mat.</hi> 7.21.</p>
+            <p>
+               <hi>So all People may see by Christ's own Words, that their</hi> Saying <hi>and</hi> Speaking <hi>of God and Christ, and his Prophets and Apostles, signifies nothing, except they</hi> Do his Will, <hi>that is,</hi> Practise, <hi>and to be obedient to what he commands and requires.</hi>
+            </p>
+            <closer>
+               <signed>G. F.</signed>
+            </closer>
+            <postscript>
+               <p>
+                  <hi>And let this be read amongst all the Men and Womens Meet<g ref="char:EOLhyphen"/>ings, that are gathered in the Name of Jesus, both in</hi> Eng<g ref="char:EOLhyphen"/>land, <hi>and beyond Seas.</hi>
+               </p>
+               <closer>
+                  <signed>G. F.</signed>
+               </closer>
+            </postscript>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:44860:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
